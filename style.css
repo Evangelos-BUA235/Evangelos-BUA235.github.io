@@ -1,0 +1,15 @@
+body { background: black;
+       color: white;
+       font-size: 18pt; }
+body { font-family: 'VT323', sans-serif;
+text-align: center}
+h2 { font-size: 300%;
+	color: white }
+nav li { display: inline-block }
+nav li { border: 2px solid black }
+nav li { padding: 10px;
+		 margin: 5px;
+		 background: gray }
+		 a { color: darkred;
+	text-decoration: none }
+A:hover { color: red }
